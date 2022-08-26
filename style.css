@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#head {
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 36px;
+    background-color: rgb(219, 219, 219);
+    
+    
+}
+
+td{
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+ 
+
+
+}
+
+#table-center{
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+#button{
+    margin-left: 700px;
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+}
+
+#msg {
+    text-align: center;
+    margin: auto;
+  
+}
