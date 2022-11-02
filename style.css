@@ -10,10 +10,13 @@
 
 #title {
     margin: 0;
-    padding: 0;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
     text-align: center;
     font-size: 36px;
-    background-color: rgb(219, 219, 219);
+    background-color: rgb(202, 201, 201);
+    align-items: center;
+    justify-content: center;
     
     
 }
@@ -31,14 +34,19 @@ td{
 #table-center{
     margin: 0 auto;
     margin-top: 10rem;
-    margin-left: 40%;
+     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #button{
-    margin-left: 47%;
+    margin: 0 auto;
     margin-top: 6rem;
     height: 50px;
     width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #msg {
